@@ -1,0 +1,11 @@
+[Protocol]
+exec=capx-qt '%u'
+protocol=capx
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

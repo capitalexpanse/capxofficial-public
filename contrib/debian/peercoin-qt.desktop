@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CapX
+Comment=Core wallet for CapX P2P Cryptocurrency
+Comment[de]=Offizieller Client für die Kryptowährung CapX
+Exec=/usr/bin/capx-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/capx.png
+MimeType=x-scheme-handler/capx;
+Categories=Application;Network;
