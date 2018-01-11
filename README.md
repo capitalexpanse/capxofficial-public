@@ -10,7 +10,7 @@ CapX utilizes POW and POS for a fair and evenly distributed crypto governance fo
 
 ### CapX Links
 * Source:
-[Source Code](https://github.com/capx/capx)
+[Source Code](https://github.com/capitalexpanse/capxofficial-public)
 * Documentation: [CapX Bluepaper](https://capitalexpanse.net/bluepaper-v1-11.pdf)
 
 
